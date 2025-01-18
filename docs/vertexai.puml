@@ -5,14 +5,12 @@ footer Disponível em: https://github.com/acnaweb/vertexai
 
 *[#F8F8FF] Vertex AI
 
-**[#LightGray] Capabilities
+**[#LightGray] Products
 
-***_ VM: cores + memory
-
-left side
-
-**[#LightGray] (DVM) Dedicated VM Hosts
-
-***_ VM on a Physical Server
+***_ ML APÌ
+***_ Auto ML
+***_ Custom Machine Learning
+***_ Vertex AI Features
+***_ BigQuery ML
 
 @endmindmap
