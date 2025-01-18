@@ -17,8 +17,11 @@ footer Disponível em: https://github.com/acnaweb/vertexai
 **[#LightGray] Vertex AI (Custom Machine Learning)
 ***_ Vertex AI workbench (nobebook)
 *** Training
-****_ Pre-built Container - Scikit-learn, XGBoost, Tensorflow, PyTorch
-****_ Custom Container
+**** Pre-built Container 
+*****_ Scikit-learn, XGBoost, Tensorflow, PyTorch
+
+**** Custom Container
+*****_ Custom Container
 
 **[#LightGray] Auto ML
 

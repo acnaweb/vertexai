@@ -1,0 +1,17 @@
+@startmindmap
+
+title "Vertex AI - Custom Container"
+footer Disponível em: https://github.com/acnaweb/vertexai
+
+*[#F8F8FF] MCustom Container
+
+**[#LightGray] ML APÌ
+***_ Pre-trained model
+***_ Vision API: Object recognition/detectation
+***_ Video API: Object recognition/detectation - 
+***_ OCR
+
+
+
+
+@endmindmap

@@ -1,5 +1,12 @@
 # Vertex AI
 
+
+## Pre-built Container
+
+```sh
+docker run -it us-docker.pkg.dev/vertex-ai/training/sklearn-cpu.1-0:latest sh
+```
+
 ### With Machine Learning Service to use 
 
 ```mermaid  
@@ -20,5 +27,7 @@ flowchart TD
 
 ## References
 
+- https://cloud.google.com/vertex-ai?hl=en
 - https://cloud.google.com/vertex-ai/docs/predictions/pre-built-containers
-
+- https://cloud.google.com/vertex-ai/docs/training/pre-built-containers
+- https://cloud.google.com/vertex-ai/docs/start/training-methods
