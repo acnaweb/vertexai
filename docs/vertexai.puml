@@ -1,16 +1,29 @@
 @startmindmap
 
-title "GCP - Vertex AI"
+title "GCP - Machine Learning"
 footer Disponível em: https://github.com/acnaweb/vertexai
 
-*[#F8F8FF] Vertex AI
+*[#F8F8FF] Machine Learning
 
-**[#LightGray] Products
+**[#LightGray] ML APÌ
+***_ Pre-trained model
+***_ Vision API: Object recognition/detectation
+***_ Video API: Object recognition/detectation - 
+***_ OCR
+***_ Speech to text
+***_ Language Translation
+***_ NL API - to get insight from natural language
 
-***_ ML APÌ
-***_ Auto ML
-***_ Custom Machine Learning
-***_ Vertex AI Features
-***_ BigQuery ML
+**[#LightGray] Vertex AI (Custom Machine Learning)
+***_ Vertex AI workbench (nobebook)
+*** Training
+****_ Pre-built Container - Scikit-learn, XGBoost, Tensorflow, PyTorch
+****_ Custom Container
+
+**[#LightGray] Auto ML
+
+**[#LightGray] BigQuery ML
+
+
 
 @endmindmap

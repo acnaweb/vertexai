@@ -20,3 +20,5 @@ flowchart TD
 
 ## References
 
+- https://cloud.google.com/vertex-ai/docs/predictions/pre-built-containers
+
